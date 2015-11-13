@@ -1,2 +1,2 @@
 # trustifier.github.io
-Trustifier GitHUB page
+Trustifier GitHUB page version 1.0
